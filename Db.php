@@ -1,7 +1,4 @@
 <?php
-namespace Foundation\Database;
-
-use PDO;
 
 class Db extends PDO
 {
